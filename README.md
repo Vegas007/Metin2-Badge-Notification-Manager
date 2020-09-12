@@ -1,5 +1,6 @@
 # Metin2 Badge Notification Manager
  Badge notifications based on activity.
+ 
 https://www.youtube.com/watch?v=1wjsp6gdp-Y
 ------------
 
