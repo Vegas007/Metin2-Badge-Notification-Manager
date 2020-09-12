@@ -1,0 +1,13 @@
+//1.1) Search for:
+#define IDR_VERTEXSHADER_WINDYBRANCH_STATIC_LIGHTING 155
+// Add after:
+#define IDI_BADGE_1	500
+#define IDI_BADGE_2	501
+#define IDI_BADGE_3	502
+#define IDI_BADGE_4	503
+#define IDI_BADGE_5	504
+#define IDI_BADGE_6	505
+#define IDI_BADGE_7	506
+#define IDI_BADGE_8	507
+#define IDI_BADGE_9	508
+#define IDI_BADGE_10	509
