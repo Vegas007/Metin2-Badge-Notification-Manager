@@ -1,1 +1,6 @@
-Open Visual Studio -> Click right on UserInterface -> Add -> Existing item -> Select BadgeNotificationManager.cpp BadgeNotificationManager.h -> Add
+Open Visual Studio:
+	- Click right on UserInterface -> Add -> Existing item -> Select BadgeNotificationManager.cpp BadgeNotificationManager.h -> Add
+	https://i.gyazo.com/6b85ce072eba9d2c3dcc875fbda16f38.png
+
+	- Click right on UserInterface -> Properties -> Resources -> General -> Preprocessor definitions -> Edit -> Add this: ENABLE_BADGE_NOTIFICATION_MANAGER
+	https://i.gyazo.com/fc93fe7c3492936e8616ea7407c83c4b.png

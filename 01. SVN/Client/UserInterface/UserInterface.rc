@@ -2,7 +2,7 @@
 IDI_METIN2              ICON                    "metin2.ico"
 // Add after:
 
-#if defined(ENABLE_BADGE_NOTIFICATION_MANAGER)
+#ifdef ENABLE_BADGE_NOTIFICATION_MANAGER
 // Badge notification icons
 IDI_BADGE_1		ICON	"Badges\\badge_1.ico"
 IDI_BADGE_2		ICON	"Badges\\badge_2.ico"
