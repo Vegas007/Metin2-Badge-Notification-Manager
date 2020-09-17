@@ -10,6 +10,7 @@
 		chat.CreateWhisper(targetName)
 #2.2) Replace with:
 		if app.ENABLE_BADGE_NOTIFICATION_MANAGER:
-			chat.CreateWhisper(targetName, self.chatLine.hWnd)
+			if targetName != None:
+				chat.CreateWhisper(targetName, self.chatLine.hWnd)
 		else:
 			chat.CreateWhisper(targetName)
