@@ -1,3 +1,4 @@
+
 # Metin2 Badge Notification Manager
  Badge notifications based on activity.
  
@@ -21,19 +22,48 @@ When the application is created it's loading all resources and create only one o
 ![](https://i.gyazo.com/5d59d75aa8cd5e6fa36826e4e2b09624.gif)
 
 ### 4. Activity
-Whisper messages - **Active**
-> There are many scenarios related about application active, whisper windoow opened and focused +++.
+**Free version:**
 
-Guild/Party/Friend/Quest request - **Soon**
+> **Whisper messages**
+There are many scenarios related about application active, whisper windoow opened and focused +++.
 
-------------
+**Premium version:**
+
+> **Exchange**
+> -   When an exchange window is opened.
+> 
+> **Fishing**
+> 
+> -   When you catch a fish.
+> 
+> **Big notice**
+> -   When the staff makes a big notice announcement.
+> 
+> **Duel request**
+> -   When a player sends a duel request.
+> 
+> **Friend request**
+> -   When you receive a friend request.
+> -   Added multi friend request as well. [(Click here)](https://www.vegas-projects.com/wp-content/uploads/2021/07/multi_friend_add.mp4)
+> 
+> **Party/Guild/Guild war request**
+> -   When you receive a request.
+> 
+> #### **Settings**
+> -   You can add how many activities you want.
+> -   Play a sound specified by the given file name, resource, or system event, the sound is played asynchronously.
+> -   Available a python module that you can use where you want just by calling:
+> 
+> `import badge badge.Notification(badge.ACTIVITY_OFFLINESHOP_SEEN,
+> True)`
+> 
+> **Free support and custom changes.**
+> [Click here!](https://www.vegas-projects.com/product/badge-notification-manager)
 ## Author:
 [@VegaS](https://metin2.dev/board/profile/22505-vegas™/ "@VegaS")
-
 ## Contributors
 | name  | contribution  |
 | ------------ | ------------ |
 | arves100  | testing  |
 | metin2team  | image icons pack  |
 | masodikbela  | future ideas  |
-
